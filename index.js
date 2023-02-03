@@ -39,3 +39,5 @@ document.querySelector('.search_bar').addEventListener('keyup', function(event){
 });
 
 weather.fetchWeather("Delhi");
+console.log("happy learning");
+console.log("Happy web development");
